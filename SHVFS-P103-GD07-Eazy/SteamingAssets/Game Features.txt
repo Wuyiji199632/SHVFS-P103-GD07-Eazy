@@ -1,0 +1,9 @@
+1.Several bears are holidng AK47s;
+
+2.The bear in Team1 is our protagonist, his AK47 can be reloaded and has a limit of bullet amount;
+
+3. If the protagonist bear dies, the game will reloaded;
+
+4. The benchmark of victory is that the protagonist bear reaches the coffer installed inside the bank;
+
+5. The enemy bears are distributed between Team2 and Team3, they will shoot at our protagonist once it enters the patrolling radius. Meanwhile, if you shoot proactively at the enemy bears at first, they will start chasing you and shooting as well.
